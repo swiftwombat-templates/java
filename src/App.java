@@ -1,8 +1,8 @@
 /**
  * Access point for the application.
  *
+ * TODO: Ensure date is updated after project is tempalted.
  * @author Zachary Cockshutt
- * @author Liam Walker
  * @since  2023-08-01
  */
 public class App
